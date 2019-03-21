@@ -135,12 +135,16 @@ The test from task 13 should now pass.
 
 The following questions are intended to be answered with written answers (no coding required) and should re-enforce some of the learning you have completed.
 
-1. Which part is the file extension of the package.json file?
+1. Which part is the file extension of the package.json file? json
 
 2. What does JSON stand for?
+JavaScript Object Notation
 
 3. What is the purpose of JSON?
+Easy and readable way to transport data
 
 4. What does the package.json file do?
+This file manages our software dependencies
 
 5. What are some of the different 'types' that can be represented in JSON?
+strings, numbers, integers, boolean constants, null.
